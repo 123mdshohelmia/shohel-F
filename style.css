@@ -1,0 +1,96 @@
+body {
+    font-family: 'Righteous', cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.name {
+    color: orange;
+}
+
+.shohel {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.btn1 {
+    margin-top: 25px;
+}
+
+.btname {
+    color: white;
+}
+
+.shohel img {
+    width: 100%;
+}
+
+.mmm {
+    color: orange;
+}
+
+.btn {
+    margin-top: 50px;
+    margin-bottom: 250px;
+}
+
+a {
+    padding: 10px 20px;
+    font-size: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.ft h1 {
+    margin-left: 5%;
+    margin-bottom: 100px;
+}
+
+.co {
+    color: pink;
+}
+
+.shohel h2 {
+    text-align: center;
+    margin-top: 30px;
+    color: green;
+}
+
+.sho {
+    border: none;
+    margin-bottom: 100px;
+    line-height: 40px;
+    border-bottom: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.sho p {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px 10px;
+    text-transform: capitalize;
+}
+
+.footerName {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.footerName h2 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: hotpink;
+}
+
+.footerName h3 {
+    font-size: 17px;
+    color: lightcoral;
+    margin-bottom: 50px;
+}
